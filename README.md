@@ -60,7 +60,7 @@ I enjoy turning complex data problems into **reliable, scalable, and maintainabl
 
 ## 💼 Experience
 
-### Data Engineer — HBZ Services Private Limited
+### Senior Datawarehouse Specialist — HBZ Services Private Limited
 **July 2026 – Present | Pakistan**
 
 **HBZ Services Private Limited is a 100% subsidiary of Habib Bank AG Zurich.**
@@ -81,8 +81,8 @@ Key areas of work:
 
 ---
 
-### Senior Data Warehouse Engineer — Careem
-**December 2025 – 2026 | UAE / Remote**
+### Senior Data Warehouse Engineer — Careem via Socium LLC
+**December 2025 – May 2026 | UAE / Remote**
 
 Worked on data warehouse and analytical modeling for a large-scale logistics and ride-hailing environment.
 
@@ -98,7 +98,7 @@ Key areas included:
 ---
 
 ### Senior Data Engineer — Perch Insights
-**Remote | US**
+**April 2025 – December 2025 | USA / Remote**
 
 Worked on modern data engineering solutions involving:
 
@@ -112,7 +112,26 @@ Worked on modern data engineering solutions involving:
 
 ---
 
-### Data Engineering — Afiniti
+### Senior Data Engineer — PureSquare / Gaditek
+**September 2024 - April 2025 | Karachi / On-site**
+
+Worked on cloud-based data warehousing and analytics solutions.
+
+Key areas included:
+
+- **Snowflake** data warehouse development
+- PostgreSQL and MySQL integration
+- Airflow-based data pipelines
+- Python automation
+- Mixpanel data integration
+- Data modeling and transformation
+- Power BI reporting
+- Query and database optimization
+
+---
+
+### Data Engineer — Afiniti
+**January 2021 – September 2024| Karachi / On-site**
 
 Worked on enterprise data platforms, ETL pipelines, automation, and operational reporting.
 
@@ -130,25 +149,8 @@ Key areas included:
 
 ---
 
-### Data Engineering — PureSquare / Gaditek
-
-Worked on cloud-based data warehousing and analytics solutions.
-
-Key areas included:
-
-- **Snowflake** data warehouse development
-- PostgreSQL and MySQL integration
-- Airflow-based data pipelines
-- Python automation
-- Mixpanel data integration
-- Data modeling and transformation
-- Power BI reporting
-- Query and database optimization
-
----
-
-### Data Analyst — Bykea
-
+### Associate Data Analyst — Bykea
+**December 2019 - December 2020 | Karachi / On-site**
 Worked on analytical solutions using **BigQuery, Looker, and SQL**.
 
 Key areas included:
